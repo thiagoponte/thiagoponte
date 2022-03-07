@@ -1,19 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-8701
-Fork on GitHub
-1918
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-markdown
 <h1 align="center">Hi 👋, I'm Thiago Freitas da Ponte</h1>
 <h3 align="center">Solutions Architect with FullStack Dev experience</h3>
 
