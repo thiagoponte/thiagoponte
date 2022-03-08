@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thiago Freitas da Ponte</h1>
-<h3 align="center">Solutions Architect with FullStack Dev experience</h3>
+<h3 align="center">Solutions Architect with FullStack Web Development experience</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thiagoponte&label=Profile%20views&color=0e75b6&style=flat" alt="thiagoponte" /> </p>
 
@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently learning **AWS, Software Engeneering**
 
-- 💬 Ask me about **Java**
+- 💬 Ask me about **Cloud Computing, AWS, Java**
 
 - 📫 How to reach me **thiagoponte@gmail.com**
 
-- ⚡ Fun fact **Father of one**
+- ⚡ Fun fact **Father of a little girl :sparkling_heart:**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
